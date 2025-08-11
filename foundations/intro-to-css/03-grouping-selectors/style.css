@@ -1,0 +1,17 @@
+.first,
+.second 
+        {
+            font-size:28px;
+            font-family: "helvetica", "Times New Roman", "Sans Serif"
+        }
+
+.first
+        {
+            background-color: rgb(237, 171, 237);
+            color: rgb(135, 222, 170)
+        }
+    
+.second
+        {
+            background-color: rgb(222, 202, 163);
+        }
