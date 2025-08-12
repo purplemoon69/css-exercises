@@ -1,0 +1,19 @@
+div .text{
+    
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+
+    }
+
+div .contents{
+    background-color: aqua;
+    text-align: center;
+    color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.ancestor {
+    text-align: center;
+}
